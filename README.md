@@ -12,7 +12,7 @@ BioTrust es una solución web de carácter SaaS diseñada para resolver la probl
 - **Containerización:** Docker & Docker-Compose
 
 ## 👥 Nombre y Roles
-- **Macarena Avendaño:** Lead Developer, Arquitecta de Software, Ciberseguridad & DBA.
+- **Macarena Avendaño:** Lead Developer, Arquitecta de Software, Ciberseguridad y DBA (Database Administrator).
 
 ## 🔄 Metodología de Trabajo
 Se usa la metodología ágil **Scrum/Kanban** gestionada a través de GitHub Projects, organizada en iteraciones semanales para cubrir las 3 fases del semestre de Capstone.
