@@ -19,16 +19,18 @@ Se usa la metodología ágil **Scrum/Kanban** gestionada a través de GitHub Pro
 
 ## 📐 Diagrama de Arquitectura
 
+```text
 [ Client / Browser ] ---> [ Frontend (React) ]
-|
-(REST API / HTTPS)
-|
-v
-[ Backend (Python/Node.js) ]
-|          |          |
-v          v          v
-[ OCR &     [ Engine   [ PostgreSQL DB ]
-Biometry ]   Hash/QR ]   (Dockerized)
+                                |
+                         (REST API / HTTPS)
+                                |
+                                v
+                   [ Backend (Python/Node.js) ]
+                     |          |          |
+                     v          v          v
+                 [ OCR &     [ Engine   [ PostgreSQL DB ]
+                 Biometry ]   Hash/QR ]   (Dockerized)
+```
 
 ## 🚀 Despliegue
 La aplicación cuenta con una arquitectura containerizada utilizandoo `Docker` y `Docker-Compose` para garantizar la portabilidad y continuidad operativa en entornos de producción simulados.
