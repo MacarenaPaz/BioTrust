@@ -23,7 +23,7 @@ Se usa la metodología tradicional **Cascada (Waterfall)**, organizada de manera
 
 El proyecto se estructura a lo largo del semestre académico en las 3 fases oficiales de Capstone:
 
-### **Fase 1: Definición del Proyecto (Semanas 1 - 3)**
+### **Fase 1: Definición del Proyecto (Semanas 1 - 4)**
 * **Actividad 1: Levantamiento y Requerimientos (SRS):** Definición formal del problema, casos de uso, requisitos funcionales/no funcionales y arquitectura base.
 
 ### **Fase 2: Desarrollo e Integración del Sistema (Semanas 4 - 15)**
