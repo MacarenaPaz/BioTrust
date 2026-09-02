@@ -15,7 +15,26 @@ BioTrust es una solución web de carácter SaaS diseñada para resolver la probl
 - **Macarena Avendaño:** Lead Developer, Arquitecta de Software, Ciberseguridad y DBA (Database Administrator).
 
 ## 🔄 Metodología de Trabajo
-Se usa la metodología ágil **Scrum/Kanban** gestionada a través de GitHub Projects, organizada en iteraciones semanales para cubrir las 3 fases del semestre de Capstone.
+Se usa la metodología tradicional **Cascada (Waterfall)**, organizada de manera estrictamente secuencial en 6 actividades clave para cubrir las 18 semanas de la asignatura Capstone. Este enfoque permite avanzar por etapas ordenadas de análisis, diseño, desarrollo, integración y pruebas.
+
+---
+
+## 🗓️ Plan de Trabajo y Cronograma (18 Semanas)
+
+El proyecto se estructura a lo largo del semestre académico en las 3 fases oficiales de Capstone:
+
+### **Fase 1: Definición del Proyecto (Semanas 1 - 3)**
+* **Actividad 1: Levantamiento y Requerimientos (SRS):** Definición formal del problema, casos de uso, requisitos funcionales/no funcionales y arquitectura base.
+
+### **Fase 2: Desarrollo e Integración del Sistema (Semanas 4 - 15)**
+* **Actividad 2: Construcción de BD y Backend Core (Semanas 4 - 6):** Diseñar la base de datos PostgreSQL y programar las APIs del servidor (autenticación y gestión documental).
+* **Actividad 3: Desarrollo del Frontend Web (Semanas 7 - 8):** Maquetación y programación de la interfaz de usuario en React.
+* **Actividad 4: Integración Biométrica y OCR (Semanas 9 - 11):** Módulo de lectura de cédula (OCR) y prueba de vida facial vía webcam.
+* **Actividad 5: Motor de Cifrado y Sellado QR (Semanas 12 - 13):** Generación de hash SHA-256, marcas de agua y código QR inmutable en PDF.
+* **Actividad 6: Pruebas, Despliegue Docker y Manuales (Semanas 14 - 15):** Pruebas integrales, containerización en Docker-Compose y redacción de documentación técnica.
+
+### **Fase 3: Cierre y Examen (Semanas 16 - 18)**
+* **Evaluación Final y Defensa Oral:** Consolidación de la documentación de cierre y preparación de la presentación ante la comisión evaluadora.
 
 ## 📐 Diagrama de Arquitectura
 
@@ -33,4 +52,20 @@ Se usa la metodología ágil **Scrum/Kanban** gestionada a través de GitHub Pro
 ```
 
 ## 🚀 Despliegue
-La aplicación cuenta con una arquitectura containerizada utilizandoo `Docker` y `Docker-Compose` para garantizar la portabilidad y continuidad operativa en entornos de producción simulados.
+La aplicación cuenta con una arquitectura containerizada utilizando `Docker` y `Docker-Compose` para garantizar la portabilidad y continuidad operativa en entornos de producción simulados.
+
+---
+
+## 📁 Entregables y Documentación Capstone
+
+Toda la documentación académica oficial del proyecto se encuentra organizada por fases en el directorio `/docs`:
+
+* 📂 **[Fase 1: Definición del Proyecto](./docs/fase-1/)**
+  * `1.1_APT122_AutoevaluacionCompetenciasFase1.docx`
+  * `1.2_APT122_DiarioReflexionFase1.docx`
+  * `1.3_APT122_AutoevaluacionFase1.docx`
+  * `1.4_APT122_FormativaFase1.docx`
+  * `1.5_GuiaEstudiante_Fase 1_Definicion Proyecto APT_MACARENA_AVENDANO.docx`
+  * `Presentacion_Proyecto_Fase1.pptx`
+* 📂 **[Fase 2: Desarrollo y Evidencias](./docs/fase-2/)** *(En progreso)*
+* 📂 **[Fase 3: Cierre y Defensa Final](./docs/fase-3/)** *(Pendiente)*
