@@ -61,11 +61,11 @@ La aplicación cuenta con una arquitectura containerizada utilizando `Docker` y 
 Toda la documentación académica oficial del proyecto se encuentra organizada por fases en el directorio `/docs`:
 
 * 📂 **[Fase 1: Definición del Proyecto](./docs/fase-1/)**
-  * `1.1_APT122_AutoevaluacionCompetenciasFase1.docx`
-  * `1.2_APT122_DiarioReflexionFase1.docx`
-  * `1.3_APT122_AutoevaluacionFase1.docx`
-  * `1.4_APT122_FormativaFase1.docx`
-  * `1.5_GuiaEstudiante_Fase 1_Definicion Proyecto APT_MACARENA_AVENDANO.docx`
+  * `1.1_APT122_AutoevaluacionCompetenciasFase1_Macarena_Avendano.docx`
+  * `1.2_APT122_DiarioReflexionFase1_MACARENA_AVENDANO.docx`
+  * `1.3_APT122_AutoevaluaciónFase1_MACARENA_AVENDANO.docx`
+  * `1.4_APT122_FormativaFase1_MACARENA_AVENDANO.docx`
+  * `1.5_Fase 1_Definicion_Proyecto_APT_MACARENA_AVENDANO_corregido.docx`
   * `Presentacion_Proyecto_Fase1.pptx`
 * 📂 **[Fase 2: Desarrollo y Evidencias](./docs/fase-2/)** *(En progreso)*
 * 📂 **[Fase 3: Cierre y Defensa Final](./docs/fase-3/)** *(Pendiente)*
