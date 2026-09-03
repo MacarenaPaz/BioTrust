@@ -66,6 +66,10 @@ Toda la documentación académica oficial del proyecto se encuentra organizada p
   * `1.3_APT122_AutoevaluaciónFase1_MACARENA_AVENDANO.docx`
   * `1.4_APT122_FormativaFase1_MACARENA_AVENDANO.docx`
   * `1.5_Fase 1_Definicion_Proyecto_APT_MACARENA_AVENDANO_corregido.docx`
-  * `Presentacion_Proyecto_Fase1.pptx`
+
+### 📊 Presentación del Proyecto (Defensa Fase 1)
+
+* **Diapositivas Canva:** [Ver Presentación BioTrust - Fase 1](https://canva.link/id03ah4p510vafw)
+
 * 📂 **[Fase 2: Desarrollo y Evidencias](./docs/fase-2/)** *(En progreso)*
 * 📂 **[Fase 3: Cierre y Defensa Final](./docs/fase-3/)** *(Pendiente)*
