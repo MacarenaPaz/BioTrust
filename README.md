@@ -74,6 +74,23 @@ Toda la documentación académica oficial del proyecto se encuentra organizada p
 * 📄 [1.4 Formativa Fase 1](docs/fase-1/evidencias-grupales/1.4_APT122_FormativaFase1_MACARENA_AVENDANO.docx)
 * 📄 [1.5 Guía Definición del Proyecto APT (Español-Inglés)](docs/fase-1/evidencias-grupales/1.5_Fase1_Definicion_Proyecto_APT_MACARENA_AVENDANO_corregido.docx)
 
+* ## 📁 Entregables Fase 2 - BioTrust
 
-* 📂 **[Fase 2: Desarrollo y Evidencias](./docs/fase-2/)** *(En progreso)*
+### 👤 Evidencias Individuales
+* 📄 [2.1 Diario de Reflexión Fase 2](docs/fase-2/evidencias-individuales/AVENDANO_MACARENA_2.1_APT122_DiarioReflexionFase2.docx)
+
+### 👥 Evidencias Grupales
+* 📄 [2.4 Guía Desarrollo Proyecto APT - Español](docs/fase-2/evidencias-grupales/2.4_GuiaEstudiante_Fase%202_DesarrolloProyecto%20APT%20(Español).docx)
+* 📄 [2.4 Guía Desarrollo Proyecto APT - Inglés](docs/fase-2/evidencias-grupales/2.4_GuiaEstudiante_Fase%202_DesarrolloProyecto%20APT%20(Inglés).docx)
+* 📊 [Planilla de Evaluación Avance Fase 2](docs/fase-2/evidencias-grupales/PLANILLA%20DE%20EVALUACION%20AVANCE%20FASE%202.xlsx)
+* 📄 [2.6 Guía Informe Final Proyecto APT - Español](docs/fase-2/evidencias-grupales/2.6_GuiaEstudiante_Fase%202_Informe%20Final%20Proyecto%20APT%20(Español).docx)
+* 📄 [2.6 Guía Informe Final Proyecto APT - Inglés](docs/fase-2/evidencias-grupales/2.6_GuiaEstudiante_Fase%202_Informe%20Final%20Proyecto%20APT%20(Inglés).docx)
+* 📊 [Planilla de Evaluación Final Fase 2](docs/fase-2/evidencias-grupales/PLANILLA%20DE%20EVALUACION%20FINAL%20FASE%202.xlsx)
+
+### 🚀 Evidencias Proyecto
+* 📊 [Presentación del Proyecto](docs/fase-2/evidencias-proyecto/Presentación%20Proyecto.pptx)
+* 📑 [Documentación Técnica (Arquitectura, SRS, Pruebas y Manuales)](docs/fase-2/evidencias-proyecto/documentacion/)
+* 💻 [Código Fuente de la Aplicación y Base de Datos](docs/fase-2/evidencias-proyecto/sistema/)
+
+
 * 📂 **[Fase 3: Cierre y Defensa Final](./docs/fase-3/)** *(Pendiente)*
