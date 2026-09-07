@@ -60,16 +60,20 @@ La aplicación cuenta con una arquitectura containerizada utilizando `Docker` y 
 
 Toda la documentación académica oficial del proyecto se encuentra organizada por fases en el directorio `/docs`:
 
-* 📂 **[Fase 1: Definición del Proyecto](./docs/fase-1/)**
-  * `1.1_APT122_AutoevaluacionCompetenciasFase1_Macarena_Avendano.docx`
-  * `1.2_APT122_DiarioReflexionFase1_MACARENA_AVENDANO.docx`
-  * `1.3_APT122_AutoevaluaciónFase1_MACARENA_AVENDANO.docx`
-  * `1.4_APT122_FormativaFase1_MACARENA_AVENDANO.docx`
-  * `1.5_Fase 1_Definicion_Proyecto_APT_MACARENA_AVENDANO_corregido.docx`
+## 📁 Entregables Fase 1 - BioTrust
 
-### 📊 Presentación del Proyecto (Defensa Fase 1)
+### 👤 Evidencias Individuales
+* 📄 [1.1 Autoevaluación de Competencias](docs/fase-1/evidencias-individuales/1.1_APT122_AutoevaluacionCompetenciasFase1_Macarena_Avendano.docx)
+* 📄 [1.2 Diario de Reflexión](docs/fase-1/evidencias-individuales/1.2_APT122_DiarioReflexionFase1_MACARENA_AVENDANO.docx)
+* 📄 [1.3 Autoevaluación Fase 1](docs/fase-1/evidencias-individuales/1.3_APT122_AutoevaluaciónFase1_MACARENA_AVENDANO.docx)
 
-* **Diapositivas Canva:** [Ver Presentación BioTrust - Fase 1](https://canva.link/id03ah4p510vafw)
+### 👥 Evidencias Grupales / Proyecto
+* 📊 **Presentación del Proyecto (Defensa Oral):**
+  * 🔴 [Ver Presentación Interactiva en Canva](https://canva.link/id03ah4p510vafw)
+  * 📄 [Descargar Presentación PDF en Repository](docs/fase-1/evidencias-grupales/Presentación_Capstone_BioTrust_FASE1.pdf)
+* 📄 [1.4 Formativa Fase 1](docs/fase-1/evidencias-grupales/1.4_APT122_FormativaFase1_MACARENA_AVENDANO.docx)
+* 📄 [1.5 Guía Definición del Proyecto APT (Español-Inglés)](docs/fase-1/evidencias-grupales/1.5_Fase1_Definicion_Proyecto_APT_MACARENA_AVENDANO_corregido.docx)
+
 
 * 📂 **[Fase 2: Desarrollo y Evidencias](./docs/fase-2/)** *(En progreso)*
 * 📂 **[Fase 3: Cierre y Defensa Final](./docs/fase-3/)** *(Pendiente)*
