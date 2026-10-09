@@ -24,17 +24,17 @@ Se usa la metodología tradicional **Cascada (Waterfall)**, organizada de manera
 El proyecto se estructura a lo largo del semestre académico en las 3 fases oficiales de Capstone:
 
 ### **Fase 1: Definición del Proyecto (Semanas 1 - 4)**
-* **Actividad 1: Levantamiento y Requerimientos (SRS):** Definición formal del problema, casos de uso, requisitos funcionales/no funcionales y arquitectura base.
+- **Actividad 1: Levantamiento y Requerimientos (SRS):** Definición formal del problema, casos de uso, requisitos funcionales/no funcionales y arquitectura base.
 
 ### **Fase 2: Desarrollo e Integración del Sistema (Semanas 4 - 15)**
-* **Actividad 2: Construcción de BD y Backend Core (Semanas 4 - 6):** Diseñar la base de datos PostgreSQL y programar las APIs del servidor (autenticación y gestión documental).
-* **Actividad 3: Desarrollo del Frontend Web (Semanas 7 - 8):** Maquetación y programación de la interfaz de usuario en React.
-* **Actividad 4: Integración Biométrica y OCR (Semanas 9 - 11):** Módulo de lectura de cédula (OCR) y prueba de vida facial vía webcam.
-* **Actividad 5: Motor de Cifrado y Sellado QR (Semanas 12 - 13):** Generación de hash SHA-256, marcas de agua y código QR inmutable en PDF.
-* **Actividad 6: Pruebas, Despliegue Docker y Manuales (Semanas 14 - 15):** Pruebas integrales, containerización en Docker-Compose y redacción de documentación técnica.
+- **Actividad 2: Construcción de BD y Backend Core (Semanas 4 - 6):** Diseñar la base de datos PostgreSQL y programar las APIs del servidor (autenticación y gestión documental).
+- **Actividad 3: Desarrollo del Frontend Web (Semanas 7 - 8):** Maquetación y programación de la interfaz de usuario en React.
+- **Actividad 4: Integración Biométrica y OCR (Semanas 9 - 11):** Módulo de lectura de cédula (OCR) y prueba de vida facial vía webcam.
+- **Actividad 5: Motor de Cifrado y Sellado QR (Semanas 12 - 13):** Generación de hash SHA-256, marcas de agua y código QR inmutable en PDF.
+- **Actividad 6: Pruebas, Despliegue Docker y Manuales (Semanas 14 - 15):** Pruebas integrales, containerización en Docker-Compose y redacción de documentación técnica.
 
 ### **Fase 3: Cierre y Examen (Semanas 16 - 18)**
-* **Evaluación Final y Defensa Oral:** Consolidación de la documentación de cierre y preparación de la presentación ante la comisión evaluadora.
+- **Evaluación Final y Defensa Oral:** Consolidación de la documentación de cierre y preparación de la presentación ante la comisión evaluadora.
 
 ## 📐 Diagrama de Arquitectura
 
@@ -60,37 +60,38 @@ La aplicación cuenta con una arquitectura containerizada utilizando `Docker` y 
 
 Toda la documentación académica oficial del proyecto se encuentra organizada por fases en el directorio `/docs`:
 
-## 📁 Entregables Fase 1 - BioTrust
+### 📁 Entregables Fase 1 - BioTrust
 
-### 👤 Evidencias Individuales
-* 📄 [1.1 Autoevaluación de Competencias](docs/fase-1/evidencias-individuales/1.1_APT122_AutoevaluacionCompetenciasFase1_Macarena_Avendano.docx)
-* 📄 [1.2 Diario de Reflexión](docs/fase-1/evidencias-individuales/1.2_APT122_DiarioReflexionFase1_MACARENA_AVENDANO.docx)
-* 📄 [1.3 Autoevaluación Fase 1](docs/fase-1/evidencias-individuales/1.3_APT122_AutoevaluaciónFase1_MACARENA_AVENDANO.docx)
+#### 👤 Evidencias Individuales
+- 📄 [1.1 Autoevaluación de Competencias](docs/fase-1/evidencias-individuales/1.1_APT122_AutoevaluacionCompetenciasFase1_Macarena_Avendano.docx)
+- 📄 [1.2 Diario de Reflexión](docs/fase-1/evidencias-individuales/1.2_APT122_DiarioReflexionFase1_MACARENA_AVENDANO.docx)
+- 📄 [1.3 Autoevaluación Fase 1](docs/fase-1/evidencias-individuales/1.3_APT122_AutoevaluaciónFase1_MACARENA_AVENDANO.docx)
 
-### 👥 Evidencias Grupales / Proyecto
-* 📊 **Presentación del Proyecto (Defensa Oral):**
+#### 👥 Evidencias Grupales / Proyecto
+- 📊 **Presentación del Proyecto (Defensa Oral):**
   * 🔴 [Ver Presentación Interactiva en Canva](https://canva.link/id03ah4p510vafw)
   * 📄 [Descargar Presentación PDF en Repository](docs/fase-1/evidencias-grupales/Presentación_Capstone_BioTrust_FASE1.pdf)
-* 📄 [1.4 Formativa Fase 1](docs/fase-1/evidencias-grupales/1.4_APT122_FormativaFase1_MACARENA_AVENDANO.docx)
-* 📄 [1.5 Guía Definición del Proyecto APT (Español-Inglés)](docs/fase-1/evidencias-grupales/1.5_Fase1_Definicion_Proyecto_APT_MACARENA_AVENDANO_corregido.docx)
+- 📄 [1.4 Formativa Fase 1](docs/fase-1/evidencias-grupales/1.4_APT122_FormativaFase1_MACARENA_AVENDANO.docx)
+- 📄 [1.5 Guía Definición del Proyecto APT (Español-Inglés)](docs/fase-1/evidencias-grupales/1.5_Fase1_Definicion_Proyecto_APT_MACARENA_AVENDANO_corregido.docx)
 
-* ## 📁 Entregables Fase 2 - BioTrust
+---
 
-### 👤 Evidencias Individuales
-* 📄 [2.1 Diario de Reflexión Fase 2](docs/fase-2/evidencias-individuales/AVENDANO_MACARENA_2.1_APT122_DiarioReflexionFase2.docx)
+### 📁 Entregables Fase 2 - BioTrust
 
-### 👥 Evidencias Grupales
-* 📄 [2.4 Guía Desarrollo Proyecto APT - Español](docs/fase-2/evidencias-grupales/2.4_GuiaEstudiante_Fase%202_DesarrolloProyecto%20APT%20(Español).docx)
-* 📄 [2.4 Guía Desarrollo Proyecto APT - Inglés](docs/fase-2/evidencias-grupales/2.4_GuiaEstudiante_Fase%202_DesarrolloProyecto%20APT%20(Inglés).docx)
-* 📊 [Planilla de Evaluación Avance Fase 2](docs/fase-2/evidencias-grupales/PLANILLA%20DE%20EVALUACION%20AVANCE%20FASE%202.xlsx)
-* 📄 [2.6 Guía Informe Final Proyecto APT - Español](docs/fase-2/evidencias-grupales/2.6_GuiaEstudiante_Fase%202_Informe%20Final%20Proyecto%20APT%20(Español).docx)
-* 📄 [2.6 Guía Informe Final Proyecto APT - Inglés](docs/fase-2/evidencias-grupales/2.6_GuiaEstudiante_Fase%202_Informe%20Final%20Proyecto%20APT%20(Inglés).docx)
-* 📊 [Planilla de Evaluación Final Fase 2](docs/fase-2/evidencias-grupales/PLANILLA%20DE%20EVALUACION%20FINAL%20FASE%202.xlsx)
+#### 👤 Evidencias Individuales
+- 📄 [2.1 Diario de Reflexión Fase 2](docs/fase-2/evidencias-individuales/2.1_APT122_DiarioReflexionFase2_MACARENA_AVENDANO.docx)
 
-### 🚀 Evidencias Proyecto
-* 📊 [Presentación del Proyecto](docs/fase-2/evidencias-proyecto/Presentación%20Proyecto.pptx)
-* 📑 [Documentación Técnica (Arquitectura, SRS, Pruebas y Manuales)](docs/fase-2/evidencias-proyecto/documentacion/)
-* 💻 [Código Fuente de la Aplicación y Base de Datos](docs/fase-2/evidencias-proyecto/sistema/)
+#### 👥 Evidencias Grupales
+- 📄 [2.4 Guía Desarrollo Proyecto APT (Español-Inglés)](docs/fase-2/evidencias-grupales/2.4_GuiaEstudiante_Fase2_DesarrolloProyectoAPT_MACARENA_AVENDANO.docx)
+- 📄 [2.6 Guía Informe Final Proyecto APT (Español-Inglés)](docs/fase-2/evidencias-grupales/2.6_GuiaEstudiante_Fase2_InformeFinalProyectoAPT_MACARENA_AVENDANO.docx)
 
+#### 🚀 Evidencias Proyecto
+- 📊 **Presentación del Proyecto (Defensa Oral):**
+  * 🔴 [Ver Presentación Interactiva en Canva](https://canva.link/ewwgybinjd8i7uw)
+  * 📄 [Descargar Presentación PDF en Repository](docs/fase-2/evidencias-proyecto/Presentacion_Proyecto_BioTrust-AVANCE.pdf)
+- 📑 [Documentación Técnica (Arquitectura, SRS, Pruebas y Manuales)](docs/fase-2/evidencias-proyecto/documentacion/)
+- 💻 [Código Fuente de la Aplicación y Base de Datos](docs/fase-2/evidencias-proyecto/sistema/)
 
-* 📂 **[Fase 3: Cierre y Defensa Final](./docs/fase-3/)** *(Pendiente)*
+---
+
+- 📂 **[Fase 3: Cierre y Defensa Final](./docs/fase-3/)** *(Pendiente)*
