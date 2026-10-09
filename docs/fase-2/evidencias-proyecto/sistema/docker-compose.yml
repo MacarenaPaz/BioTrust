@@ -1,0 +1,30 @@
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: biotrust_db
+    environment:
+      POSTGRES_DB: biotrust_db
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: secretpassword
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./base-de-datos/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+  backend:
+    build: ./aplicacion/backend
+    container_name: biotrust_backend
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql://admin:secretpassword@db:5432/biotrust_db
+    depends_on:
+      - db
+
+  frontend:
+    build: ./aplicacion/frontend
+    container_name: biotrust_frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
