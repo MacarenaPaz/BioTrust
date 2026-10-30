@@ -89,7 +89,7 @@ Toda la documentación académica oficial del proyecto se encuentra organizada p
 - 📊 **Presentación del Proyecto (Defensa Oral):**
   * 🔴 [Ver Presentación Interactiva en Canva](https://canva.link/ewwgybinjd8i7uw)
   * 📄 [Descargar Presentación PDF en Repository](docs/fase-2/evidencias-proyecto/Presentacion_Proyecto_BioTrust-AVANCE.pdf)
-  * 🎥 **Video de Presentación Fase 2 - Avance:** [Ver Video MP4](./docs/fase-2/evidencias-proyecto/Video_Presentacion_BioTrust.mp4)
+  * 🎥 **Video de Presentación Fase 2 - Avance:** [Ver / Descargar Video MP4](./docs/fase-2/evidencias-proyecto/tu_video.mp4)
 - 📑 [Documentación Técnica (Arquitectura, SRS, Pruebas y Manuales)](docs/fase-2/evidencias-proyecto/documentacion/)
 - 💻 [Código Fuente de la Aplicación y Base de Datos](docs/fase-2/evidencias-proyecto/sistema/)
 
