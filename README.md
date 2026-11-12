@@ -83,7 +83,7 @@ Toda la documentación académica oficial del proyecto se encuentra organizada p
 
 #### 👥 Evidencias Grupales
 - 📄 [2.4 Guía Desarrollo Proyecto APT (Español-Inglés)](docs/fase-2/evidencias-grupales/2.4_GuiaEstudiante_Fase2_DesarrolloProyectoAPT_MACARENA_AVENDANO.docx)
-- 📄 [2.6 Guía Informe Final Proyecto APT (Español-Inglés)](docs/fase-2/evidencias-grupales/2.6_GuiaEstudiante_Fase2_InformeFinalProyectoAPT_MACARENA_AVENDANO.docx)
+- 📄 [2.6 Guía Informe Final Proyecto APT (Español-Inglés)](docs/fase-2/evidencias-grupales/2.6_GuiaEstudiante_Fase_2_Informe_Final_Proyecto_APT_Macarena_Avendano.docx)
 
 #### 🚀 Evidencias Proyecto
 - 📊 **Presentación del Proyecto (Defensa Oral):**
