@@ -4,12 +4,11 @@
 BioTrust es una solución web de carácter SaaS diseñada para resolver la problemática de suplantación de identidad e incertidumbre jurídica en la firma de contratos y acuerdos simples para PYMES en Chile. Permite validar en tiempo real la identidad de los firmantes mediante la lectura automatizada del carnet de identidad (OCR) y prueba de vida biométrica (reconocimiento facial vía webcam), emitiendo documentos PDF inalterables con marcas de agua, hash criptográfico y un código QR de verificación de autenticidad.
 
 ## 🛠️ Tecnologías Utilizadas
-- **Frontend:** React.js / HTML5 / CSS3 / JavaScript (ES6+)
-- **Backend:** Python (FastAPI / Django) o Node.js (Express)
-- **Procesamiento Biométrico y OCR:** OpenCV / Tesseract OCR / Face-Recognition API
-- **Base de Datos:** PostgreSQL (Modelo Relacional Escalable)
-- **Seguridad & Cryptography:** PyPDF / ReportLab, hashlib (SHA-256), QRCode Generator
-- **Containerización:** Docker & Docker-Compose
+- **Frontend:** React.js + Vite, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** API REST en Python (FastAPI / Uvicorn) con middleware de seguridad CORS
+- **Procesamiento Biométrico & Seguridad:** Prueba de Vida Activa (*Active Liveness Detection* / Anti-Spoofing), autenticación 2FA, hash criptográfico `SHA-256` y cifrado binario `BYTEA`
+- **Base de Datos:** PostgreSQL 15 (`init.sql` con integridad referencial y consistencia ACID)
+- **Infraestructura y Despliegue:** Docker & Docker Compose (arquitectura multi-contenedor en red aislada)
 
 ## 👥 Nombre y Roles
 - **Macarena Avendaño:** Lead Developer, Arquitecta de Software, Ciberseguridad y DBA (Database Administrator).
@@ -44,15 +43,37 @@ El proyecto se estructura a lo largo del semestre académico en las 3 fases ofic
                          (REST API / HTTPS)
                                 |
                                 v
-                   [ Backend (Python/Node.js) ]
+                   [ Backend (Python REST API) ]
                      |          |          |
                      v          v          v
                  [ OCR &     [ Engine   [ PostgreSQL DB ]
                  Biometry ]   Hash/QR ]   (Dockerized)
 ```
 
-## 🚀 Despliegue
-La aplicación cuenta con una arquitectura containerizada utilizando `Docker` y `Docker-Compose` para garantizar la portabilidad y continuidad operativa en entornos de producción simulados.
+## 🚀 Instrucciones de Ejecución Local (Despliegue)
+
+Para ejecutar **BioTrust** de manera local en un entorno aislado, asegurar de tener instalados **Git** y **Docker Desktop** (en ejecución) y seguir estos pasos:
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/MacarenaPaz/BioTrust.git
+   cd BioTrust/docs/fase-2/evidencias-proyecto/sistema
+   ```
+
+2. **Construir y levantar los contenedores:**
+   ```bash
+   docker-compose up -d --build
+   ```
+
+3. **Verificar que los 3 servicios estén activos (`Up`):**
+   ```bash
+   docker ps
+   ```
+
+4. **Acceder a los servicios locales:**
+   - **Aplicación Web (Frontend React):** `http://localhost:3000`
+   - **API REST & Documentación (Backend Python):** `http://localhost:8000/docs`
+   - **Base de Datos (PostgreSQL 15):** Puerto `5432` (Base de datos: `biotrust_db`)
 
 ---
 
@@ -97,4 +118,13 @@ Toda la documentación académica oficial del proyecto se encuentra organizada p
 
 ---
 
-- 📂 **[Fase 3: Cierre y Defensa Final](./docs/fase-3/)** *(Pendiente)*
+### 📁 Entregables Fase 3 - Cierre y Defensa Final ante Comisión
+
+#### 👤 Evidencias Individuales
+- 📄 [3.1 Diario de Reflexión Fase 3](docs/fase-3/evidencias-individuales/3.1_APT122_DiarioReflexionFase3_Macarena_Avendano.docx)
+- 📄 [3.2 Autoevaluación Fase 3](docs/fase-3/evidencias-individuales/3.2_APT122_AutoevaluacionFase3_Macarena_Avendano.docx)
+
+#### 🎓 Presentación Final Proyecto APT (Comisión Evaluadora)
+- 📄 [3.3 Guía Presentación Proyecto APT](docs/fase-3/presentacion-final/3.3_Estudiante_Fase3_PresentacionProyectoAPT_Macarena_Avendano.docx)
+- 📊 **Presentación Ejecutiva Final (Canva):** [Ver Presentación de Defensa en Canva](https://canva.link/x0ryjet9kme0jte)
+- 📄 **Presentación Respaldo PDF:** [Descargar Presentación Final PDF](docs/fase-3/presentacion-final/Presentacion_Final_Capstone_BioTrust_FASE3.pdf)
