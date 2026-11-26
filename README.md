@@ -93,7 +93,7 @@ Toda la documentación académica oficial del proyecto se encuentra organizada p
 - 📑 [Documentación Técnica (Arquitectura, SRS, Pruebas y Manuales)](docs/fase-2/evidencias-proyecto/documentacion/)
 - 💻 [Código Fuente de la Aplicación y Base de Datos](docs/fase-2/evidencias-proyecto/sistema/)
 - 📊 **Presentación Fase 2 - Final:** [Ver Presentación Oral y Demo en Canva](https://canva.link/x0ryjet9kme0jte)
-  * 📄 [Descargar Presentación PDF en Repository](docs/fase-2/evidencias-proyecto/Presentacion_Proyecto_BioTrust-FINAL.pdf)
+  * 📄 [Descargar Presentación PDF en Repository](docs/fase-2/evidencias-proyecto/Presentacion_Proyecto_BioTrust-FINAL_Fase2.pdf)
 
 ---
 
