@@ -122,9 +122,7 @@ Toda la documentación académica oficial del proyecto se encuentra organizada p
 
 #### 👤 Evidencias Individuales
 - 📄 [3.1 Diario de Reflexión Fase 3](docs/fase-3/evidencias-individuales/3.1_APT122_DiarioReflexionFase3_Macarena_Avendano.docx)
-- 📄 [3.2 Autoevaluación Fase 3](docs/fase-3/evidencias-individuales/3.2_APT122_AutoevaluacionFase3_Macarena_Avendano.docx)
 
-#### 🎓 Presentación Final Proyecto APT (Comisión Evaluadora)
-- 📄 [3.3 Guía Presentación Proyecto APT](docs/fase-3/presentacion-final/3.3_Estudiante_Fase3_PresentacionProyectoAPT_Macarena_Avendano.docx)
-- 📊 **Presentación Ejecutiva Final (Canva):** [Ver Presentación de Defensa en Canva](https://canva.link/x0ryjet9kme0jte)
-- 📄 **Presentación Respaldo PDF:** [Descargar Presentación Final PDF](docs/fase-3/presentacion-final/Presentacion_Final_Capstone_BioTrust_FASE3.pdf)
+#### 👥 Evidencias Grupales / Presentación Final
+- 📊 **Presentación Final del Proyecto (Canva):** [Ver Presentación de Defensa en Canva](https://canva.link/x0ryjet9kme0jte)
+- 📄 [Presentación Final del Proyecto](docs/fase-3/evidencias-grupales/Presentacion_Final_Proyecto_BioTrust.pdf)
