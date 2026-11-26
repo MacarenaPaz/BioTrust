@@ -83,7 +83,7 @@ Toda la documentación académica oficial del proyecto se encuentra organizada p
 
 #### 👥 Evidencias Grupales
 - 📄 [2.4 Guía Desarrollo Proyecto APT (Español-Inglés)](docs/fase-2/evidencias-grupales/2.4_GuiaEstudiante_Fase2_DesarrolloProyectoAPT_MACARENA_AVENDANO.docx)
-- 📄 [2.6 Guía Informe Final Proyecto APT (Español-Inglés)](docs/fase-2/evidencias-grupales/2.6_GuiaEstudiante_Fase2_InformeFinalProyectoAPT_MACARENA_AVENDANO.docx)
+- 📄 [2.6 Guía Informe Final Proyecto APT (Español-Inglés)](docs/fase-2/evidencias-grupales/2.6_GuiaEstudiante_Fase_2_Informe_Final_Proyecto_APT_Macarena_Avendano.docx)
 
 #### 🚀 Evidencias Proyecto
 - 📊 **Presentación del Proyecto (Defensa Oral):**
@@ -92,6 +92,8 @@ Toda la documentación académica oficial del proyecto se encuentra organizada p
   * 🎥 **Video de Presentación Fase 2 - Avance (8-10 min):** [Ver Video en Google Drive](https://drive.google.com/file/d/1dkb3c4mNwOm5kYNH_5NLZaJSol7mz6jx/view?usp=sharing)
 - 📑 [Documentación Técnica (Arquitectura, SRS, Pruebas y Manuales)](docs/fase-2/evidencias-proyecto/documentacion/)
 - 💻 [Código Fuente de la Aplicación y Base de Datos](docs/fase-2/evidencias-proyecto/sistema/)
+- 📊 **Presentación Fase 2 - Final:** [Ver Presentación Oral y Demo en Canva](https://canva.link/x0ryjet9kme0jte)
+  * 📄 [Descargar Presentación PDF en Repository](docs/fase-2/evidencias-proyecto/Presentacion_Proyecto_BioTrust-FINAL.pdf)
 
 ---
 
