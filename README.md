@@ -124,5 +124,5 @@ Toda la documentación académica oficial del proyecto se encuentra organizada p
 - 📄 [3.1 Diario de Reflexión Fase 3](docs/fase-3/evidencias-individuales/3.1_APT122_DiarioReflexionFase3_Macarena_Avendano.docx)
 
 #### 👥 Evidencias Grupales / Presentación Final
-- 📊 **Presentación Final del Proyecto (Canva):** [Ver Presentación de Defensa en Canva](https://canva.link/x0ryjet9kme0jte)
+- 📊 **Presentación Final del Proyecto (Canva):** [Ver Presentación de Defensa en Canva](https://canva.link/z7kkonexoa1sjf0)
 - 📄 [Presentación Final del Proyecto](docs/fase-3/evidencias-grupales/Presentacion_Final_Proyecto_BioTrust.pdf)
